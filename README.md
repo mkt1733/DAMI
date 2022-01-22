@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is the repo of for Deep-Learning-Based Autofocusing of Bright-Field Microscopic Imagery. The framework of the codes is modified from **[ PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)** by [eriklindernoren](https://github.com/eriklindernoren/PyTorch-GAN/commits?author=eriklindernoren) (Pix2Pix part). The codes are developed by Yucheng Zhang(Email:yucheng.zhang009@gmail.com). This work is the co-work of Mr. Xingchen Dong(E-Mail:[xingchen.dong@tum.de](mailto:xingchen.dong@tum.de)).
+This is the repo of for Deep-Learning-Based Autofocusing of Bright-Field Microscopic Imagery. The framework of the codes is modified from **[ PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)** by [eriklindernoren](https://github.com/eriklindernoren) (Pix2Pix part). The codes are developed by Yucheng Zhang(Email:yucheng.zhang009@gmail.com). This work is the co-work of Mr. Xingchen Dong(E-Mail:[xingchen.dong@tum.de](mailto:xingchen.dong@tum.de)).
 
 ![GAN](https://github.com/yuchengZhang009/DLBA/blob/main/GAN.png)
 
