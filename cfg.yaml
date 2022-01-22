@@ -1,0 +1,27 @@
+# path setting
+train_image_path_ooF: /media/data/RGB_Extra/a
+train_image_path_inF: /media/data/RGB_Extra/b
+val_image_path_ooF: /media/data/RGB_val/a
+val_image_path_inF: /media/data/RGB_val/b
+cat_image_path: /media/data/RGB_test/a
+cat_saved_model_path: ~
+cat_save_to: /media/data/RGB_test/res
+
+# train setting
+epoch: 0 # epoch to start training from
+n_epoch: 10 # number of epochs of training
+train_dataset_name: RGB # name of the dataset
+batch_size: 4 # size of the batches
+lr: 0.0002 # adam: learning rate
+b1: 0.5 # adam: decay of first order momentum of gradient
+b2: 0.999 # adam: decay of first order momentum of gradient
+decay_epoch: 100 # epoch from which to start lr decay
+n_cpu: 8 # number of cpu threads to use during batch generation
+img_height: 256 # size of image height
+img_width: 256 # size of image width
+channels: 3 # number of image channels
+checkpoint_interval: 1 # interval between model checkpoints
+lambda_pixel: 10 # lambda of loss_g
+
+
+
